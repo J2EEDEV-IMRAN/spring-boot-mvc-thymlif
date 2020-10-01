@@ -1,0 +1,8 @@
+package com.imran.config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+
+public class ApplicationConfigurationProp {
+}
